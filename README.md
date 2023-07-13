@@ -1,3 +1,12 @@
+# Solution
+I used stackblitz
+[Jason's solution](https://stackblitz.com/edit/vanilla-js-playground-eda8zz?file=index.js)
+
+Solution doesn't read the text files
+
+Results feel a bit rigged haha
+![image](/tinybirb.png)
+
 # Tinybird "St. Albnas" Hackathon
 *Clean some data, win some swag*
 
